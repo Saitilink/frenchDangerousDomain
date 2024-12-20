@@ -1,0 +1,1 @@
+printf("%lf%lf",&p1.taille,&p2.taille)
